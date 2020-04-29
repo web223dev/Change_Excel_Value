@@ -1,5 +1,5 @@
 # Change_Excel_Value
-Change value in Excel using python.
+Change value automatically in Excel using python.
 
 # How to install Openpyxl
 pip install openpyxl
